@@ -1,0 +1,12 @@
+[
+  {
+    "NomeDaLoja": "Xipriu",
+    "Pedidos": [],
+    "Estoque": [
+      {
+        "Price": 2.0,
+        "Nome": "batata"
+      }
+    ]
+  }
+]
